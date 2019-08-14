@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ref</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ref" stroke="#979797">
+            <g id="icon">
+                <g id="output" transform="translate(6.000000, 6.000000)">
+                    <path d="M2.28450951,11.6666667 L2,11.6666667 C0.8954305,11.6666667 3.68798443e-15,10.7712362 3.55271368e-15,9.66666667 L0,3 C-2.02906125e-16,1.34314575 1.34314575,9.70493003e-16 3,6.66133815e-16 L18,0 C19.1045695,-2.02906125e-16 20,0.8954305 20,2 M20,4.11645508 C20,4.87780635 20,4.87414424 20,6.10546875 M20,8.95751953 C20,9.10498025 20,9.34136263 20,9.66666667 C20,10.7712362 19.1045695,11.6666667 18,11.6666667 L17.5770308,11.6666667 L14.2436975,15 L14.2436975,11.6666667 L11.7154905,11.6666667" id="Combined-Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="ppl" transform="translate(3.000000, 7.000000)">
+                        <path d="M7.13714856,7.51814922 C7.67740328,8.20012718 8,9.06239034 8,10 L8,14 L0,14 L0,10 C0,9.06239034 0.322596716,8.20012718 0.86285144,7.51814922" id="Combined-Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle id="Oval-2-Copy" cx="4" cy="3" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

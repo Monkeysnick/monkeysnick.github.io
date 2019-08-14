@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_jobs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="jobs" stroke="#979797">
+            <g id="icon">
+                <g id="Case" transform="translate(6.000000, 5.000000)">
+                    <path d="M0,8 L0,7 C-2.02906125e-16,5.34314575 1.34314575,4 3,4 L4,4 M9,4 L12,4 M17,4 C18.6568542,4 20,5.34314575 20,7 L20,18 C20,19.6568542 18.6568542,21 17,21 L3,21 C1.34314575,21 2.02906125e-16,19.6568542 0,18 L0,13 M0,11 L0,10" id="Rectangle-3"></path>
+                    <path d="M15,4 C15,1.51471863 12.9494743,0 10.464193,0 C7.97891158,0 6,1.51471863 6,4" id="Combined-Shape"></path>
+                </g>
+                <g id="skill" transform="translate(11.000000, 12.000000)">
+                    <polyline id="left" points="2.76834167 3 5.68434189e-14 5.8795191 3 9"></polyline>
+                    <polyline id="right" transform="translate(9.500000, 6.000000) scale(-1, 1) translate(-9.500000, -6.000000) " points="10.7683417 3 8 5.8795191 11 9"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

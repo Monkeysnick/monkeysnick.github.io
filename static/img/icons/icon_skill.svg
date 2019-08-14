@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_skill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="skill" stroke="#979797">
+            <g id="icon">
+                <polyline id="Path-2" stroke-linecap="round" stroke-linejoin="round" points="9.61390278 13 5 17.3192787 10 22"></polyline>
+                <polyline id="Path-2-Copy" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.500000, 17.500000) scale(-1, 1) translate(-25.500000, -17.500000) " points="27.6139028 13 23 17.3192787 28 22"></polyline>
+                <g id="pen" transform="translate(13.500000, 8.000000)">
+                    <polygon id="Path-3" stroke-linecap="round" stroke-linejoin="bevel" points="0.140571852 4.78751579 0.140571852 16.574895 4.51560625 16.574895 4.51560625 4.76939729 2.32808905 0.210592717"></polygon>
+                    <path d="M0,4.57692308 L4.375,4.57692308" id="Path-4"></path>
+                    <path d="M0,13.7307692 L4.375,13.7307692" id="Path-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

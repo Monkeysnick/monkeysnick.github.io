@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_design</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" stroke="#8BC34A" stroke-width="2">
+            <g>
+                <g id="pen" transform="translate(14.398026, 6.500000)">
+                    <polygon id="Path-3" stroke-linecap="round" stroke-linejoin="round" points="0.19976 6.80331192 0.19976 23.5537981 6.41691414 23.5537981 6.41691414 6.77756456 3.30833707 0.299263335"></polygon>
+                    <path d="M0,8.50404858 L6.21710526,8.50404858" id="Path-4"></path>
+                    <path d="M0,18.5121457 L6.21710526,18.5121457" id="Path-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
